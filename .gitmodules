@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "survParamSim"]
-	path = survParamSim
-	url = https://github.com/yoshidk6/survparamsim
-	shallow = true
-	registered = true
 [submodule "rstanemax"]
 	path = rstanemax
 	url = https://github.com/yoshidk6/rstanemax
+	shallow = true
+	registered = true
+[submodule "survParamSim"]
+	path = survParamSim
+	url = https://github.com/yoshidk6/survparamsim
 	shallow = true
 	registered = true
