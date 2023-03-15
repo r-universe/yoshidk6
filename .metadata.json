@@ -1,10 +1,10 @@
 [
   {
-    "package": "rstanemax",
+    "package": "survParamSim",
     "oncran": true
   },
   {
-    "package": "survParamSim",
+    "package": "rstanemax",
     "oncran": true
   }
 ]
